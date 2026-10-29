@@ -1,0 +1,6 @@
+-r requirements.txt
+pywebview>=5,<7
+pystray>=0.19,<1
+Pillow>=10,<13
+sounddevice>=0.5,<1
+numpy>=1.26,<3

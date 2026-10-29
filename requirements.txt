@@ -1,0 +1,3 @@
+# Chat, HTTP, yaddaş və API transportu Python-un standart kitabxanası ilə işləyir.
+# Bu paket yalnız Roblox Open Cloud-a FBX yükləmə funksiyası üçündür.
+requests>=2.31,<3

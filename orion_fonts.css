@@ -1,0 +1,13 @@
+/* Euclid Circular A: the supplied font files, bundled for offline use. */
+@font-face{font-family:"Euclid Circular A";font-style:normal;font-weight:400;font-display:swap;src:url("/panel-assets/fonts/EuclidCircularA-Regular.woff") format("woff")}
+@font-face{font-family:"Euclid Circular A";font-style:italic;font-weight:400;font-display:swap;src:url("/panel-assets/fonts/EuclidCircularA-RegularItalic.woff") format("woff")}
+@font-face{font-family:"Euclid Circular A";font-style:normal;font-weight:300;font-display:swap;src:url("/panel-assets/fonts/EuclidCircularA-Light.woff") format("woff")}
+@font-face{font-family:"Euclid Circular A";font-style:italic;font-weight:300;font-display:swap;src:url("/panel-assets/fonts/EuclidCircularA-LightItalic.woff") format("woff")}
+@font-face{font-family:"Euclid Circular A";font-style:normal;font-weight:500;font-display:swap;src:url("/panel-assets/fonts/EuclidCircularA-Medium.woff") format("woff")}
+@font-face{font-family:"Euclid Circular A";font-style:italic;font-weight:500;font-display:swap;src:url("/panel-assets/fonts/EuclidCircularA-MediumItalic.woff") format("woff")}
+@font-face{font-family:"Euclid Circular A";font-style:normal;font-weight:600;font-display:swap;src:url("/panel-assets/fonts/EuclidCircularA-SemiBold.woff") format("woff")}
+@font-face{font-family:"Euclid Circular A";font-style:italic;font-weight:600;font-display:swap;src:url("/panel-assets/fonts/EuclidCircularA-SemiBoldItalic.woff") format("woff")}
+@font-face{font-family:"Euclid Circular A";font-style:normal;font-weight:700;font-display:swap;src:url("/panel-assets/fonts/EuclidCircularA-Bold.woff") format("woff")}
+@font-face{font-family:"Euclid Circular A";font-style:italic;font-weight:700;font-display:swap;src:url("/panel-assets/fonts/EuclidCircularA-BoldItalic.woff") format("woff")}
+:root{--orion-font:"Euclid Circular A",system-ui,-apple-system,"Segoe UI",sans-serif}
+html,body,button,input,select,textarea{font-family:var(--orion-font)}
